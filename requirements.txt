@@ -4,7 +4,7 @@ beautifulsoup4==4.11.2
 certifi==2023.7.22
 charset-normalizer==3.2.0
 defusedxml==0.7.1
-Django==4.1.11
+Django==4.1.13
 django-filter==22.1
 django-modelcluster==6.0
 django-permissionedforms==0.1
