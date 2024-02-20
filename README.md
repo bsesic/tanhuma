@@ -1,4 +1,10 @@
 # Tanhuma Project Portal
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+[![Documentation Status](https://readthedocs.org/projects/tanhuma/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
 [![Docker](https://github.com/tahuma/portal/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/tahuma/portal/actions/workflows/docker-publish.yml)
 [![Django CI](https://github.com/tahuma/portal/actions/workflows/django.yml/badge.svg)](https://github.com/tahuma/portal/actions/workflows/django.yml)
 [![Docker Image CI](https://github.com/tahuma/portal/actions/workflows/docker-image.yml/badge.svg)](https://github.com/tahuma/portal/actions/workflows/docker-image.yml)
