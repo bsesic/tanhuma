@@ -28,6 +28,6 @@ soupsieve==2.5
 sqlparse==0.5.4
 telepath==0.3.1
 urllib3==2.7.0
-wagtail==7.0.7
+wagtail==7.0.9
 webencodings==0.5.1
 Willow==1.6.2
