@@ -27,7 +27,7 @@ six==1.16.0
 soupsieve==2.9
 sqlparse==0.6.0
 telepath==0.3.1
-urllib3==2.7.0
+urllib3==2.8.0
 wagtail==7.0.9
 webencodings==0.5.1
 Willow==1.6.2
